@@ -14,6 +14,7 @@ class MainApp extends StatelessWidget {
         body: Center(
           child: Text('Hello World!'),
         ),
+        backgroundColor: Colors.blue,
       ),
     );
   }
